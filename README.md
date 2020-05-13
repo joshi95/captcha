@@ -21,7 +21,7 @@ At the time of development go version *go1.14rc1* was used
 You can get a working version of the library by running
 
 ```
-go get github.com/joshi_cse/captcha
+go get github.com/joshi95/captcha
 ```
 
 The api currently supports a method ChallengeUser which takes in a Challenger and a Prompter
@@ -36,7 +36,7 @@ Explain how to run the automated tests for this system
 
 ## Authors
 
-* **Shubham Joshi** - *Initial work* - [Shubham Joshi](https://github.com/joshi_cse)
+* **Shubham Joshi** - *Initial work* - [Shubham Joshi](https://github.com/joshi95)
 
 
 ## License
